@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_normal">20sp</dimen>
+    <dimen name="text_padding">15dp</dimen>
+
+    <dimen name="add_margin">10dp</dimen>
+    <dimen name="add_form_height">40dp</dimen>
+    <dimen name="add_padding_left">10dp</dimen>
+    <dimen name="add_text_size">18sp</dimen>
+
+    <dimen name="detail_cover_height">200dp</dimen>
+    <dimen name="detail_cover_padding">15dp</dimen>
+    <dimen name="detail_text_size_large">30sp</dimen>
+    <dimen name="detail_text_size_normal">20sp</dimen>
+    <dimen name="detail_text_padding">10dp</dimen>
+    <dimen name="detail_ic_size">40dp</dimen>
+</resources>
